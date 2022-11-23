@@ -1,5 +1,9 @@
 console.log('02-weather.js is running!');
 
+/**
+ * @link https://www.7timer.info/doc.php?lang=en
+ */
+
 // Get the button AND the weather data element.
 const $button = $('#get-weather-button');
 // console.log($button);
