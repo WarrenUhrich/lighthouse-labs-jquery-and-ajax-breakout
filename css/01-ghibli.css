@@ -3,3 +3,7 @@ html {
     color: black;
     background: white;
 }
+
+img {
+    max-width: 100%;
+}
