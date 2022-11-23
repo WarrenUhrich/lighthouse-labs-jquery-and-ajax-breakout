@@ -1,1 +1,1 @@
-# lighthouse-labs-jquery-and-ajax-breakout
+# Lighthouse Labs | jQuery and Ajax
