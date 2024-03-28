@@ -1,0 +1,19 @@
+* {
+    background: #333;
+    color: #eee;
+}
+
+section {
+    background: darkblue;
+    padding: 64px;
+}
+
+section h2 {
+    background: darkgoldenrod;
+    padding: 64px;
+}
+
+section button {
+    background: darkmagenta;
+    padding: 16px;
+}
